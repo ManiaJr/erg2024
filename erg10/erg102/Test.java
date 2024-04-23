@@ -38,6 +38,6 @@ public class Test {
             ((Pegasus)Aviary[i]).whinny();
             ((Pegasus)Aviary[i]).gallop();
             ((Pegasus)Ranch[i]).fly();
-        }
+        }   
     }
 }
